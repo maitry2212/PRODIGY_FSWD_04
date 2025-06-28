@@ -1,0 +1,5 @@
+<img
+  src={authUser?.profilePic || "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Unknown_person.jpg/1200px-Unknown_person.jpg"}
+  alt="Profile"
+  className="w-32 h-32 rounded-full object-cover border-4 border-gray-300"
+/>
